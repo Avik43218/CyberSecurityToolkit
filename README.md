@@ -35,6 +35,13 @@ A local password manager that stores encrypted credentials (website, username, p
 
 ---
 
+## Languages/Technologies Used
+
+- Python 3
+- SQL (MySQL/MariaDB)
+
+---
+
 ## How It Works
 
 Each tool can be used independently, but together they form a secure password workflow:
