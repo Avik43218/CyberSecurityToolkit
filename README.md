@@ -1,4 +1,5 @@
 # CyberSecurity Toolkit
+ [Thumbnail](./assets/thumbnail.jpg)
 
 A collection of beginner-friendly yet powerful tools to help users create, evaluate, and manage secure passwords. Built entirely in Python for educational and practical use.
 
