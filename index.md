@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CyberSecurity Toolkit
+theme: jekyll-theme-minimal
 ---
 
 # CyberSecurity Toolkit
