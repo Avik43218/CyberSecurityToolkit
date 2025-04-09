@@ -67,3 +67,8 @@ To run any project:
 ```bash
 cd Project-Folder-Name
 python filename.py
+
+```
+---
+
+## [License](https://github.com/Avik43218/CyberSecurityToolkit/tree/main/LICENSE)
