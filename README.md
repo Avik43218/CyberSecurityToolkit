@@ -36,6 +36,17 @@ A local password manager that stores encrypted credentials (website, username, p
 
 ---
 
+### 4. [SHA256](SHA256/)
+A simple implementation of the SHA256 hashing algorithm using Python.
+
+- SHA-256 is part of the Secure Hash Algorithm 2 family, designed for cryptographic security.
+- It's a one-way function, meaning it's computationally infeasible to reverse the hashing process and retrieve the original input from the hash.
+- SHA-256 is designed to be resistant to collision attacks, where different inputs produce the same hash value.
+- It's widely used in various applications, including digital signatures, SSL/TLS certificates, and blockchain technology.
+- SHA-256 can be used to verify the integrity of data, ensuring that the data hasn't been tampered with.
+
+---
+
 ## Languages/Technologies Used
 
 - Python 3
