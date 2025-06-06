@@ -23,7 +23,7 @@ def decode_message(path: str):
 
 if __name__ == "__main__":
 
-    image_path = "K:\\Programs\\PythonPrograms\\Cryptography_Algorithms\\Steganography\\final_image.png"
+    image_path = "final_image.png"
     bytes_msg = decode_message(path=image_path)
 
     print(bytes_msg.decode())
