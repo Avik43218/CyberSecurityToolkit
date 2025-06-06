@@ -1,0 +1,50 @@
+Nuclear: 53
+Nuclear Killer: 98
+Ultimate Terminator: 92
+Kill Chain: 248
+Ultra Kill: 118
+Unstoppable: 547
+Brutal: 100
+Megakill: 183
+Relentless: 174
+Ruthless: 372
+Merciless: 837
+Bloodthirsty: 2481
+Berserker: 4431
+Lethal Contact: 3
+Stuck: 61
+Super Kill: 280
+Frenzy Kill: 586
+Fury Kill: 1176
+Triple Kill: 2769
+Double Kill: 7691
+Popcorn: 104
+Collateral: 201
+Fickle Firearms: 18
+Giant Killer: 23
+Rejected: 15
+Scrapped: 84
+Fuzz Buster: 6
+Blackout: 37
+Kingslayer: 5880
+Survivor: 1540
+Burglary: 3
+Comeback: 429
+First Blood: 311
+Back Stabber: 228
+Avenger: 5763
+Savior: 2182
+Headshot: 2448
+Saboteur: 1065
+Keep it Fresh: 857
+Follow Through: 12
+Crackdown: 389
+Raining Death: 177
+Bull's Eye: 264
+Revenge: 4519
+Knockout: 1025
+Long Shot: 6263
+One Shot, One Kill: 6499
+Wall Assist: 329
+Prop Hunter: 5
+First Kill: 2
