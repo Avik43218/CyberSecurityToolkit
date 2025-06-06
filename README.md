@@ -48,6 +48,14 @@ A simple implementation of the SHA256 hashing algorithm using Python.
 ---
 
 ### 5. [LSB-Steganography](LSB-Steganography)
+An implementation of LSB Steganography technique in Python.
+
+- LSB steganography is a technique for hiding secret data within an image by manipulating the least significant bits (LSBs) of its pixels.
+- The secret message is converted into a binary string (a series of 0s and 1s).
+- The bits of the secret message are then embedded into the LSBs of the cover image's pixels. Each pixel's LSB is replaced with a bit from the message.
+- To extract the hidden message, the receiver reads the LSBs of the modified image pixels and reconstructs the secret message. 
+
+---
 
 ## Languages/Technologies Used
 
