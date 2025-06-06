@@ -47,20 +47,12 @@ A simple implementation of the SHA256 hashing algorithm using Python.
 
 ---
 
+### 5. [LSB-Steganography](LSB-Steganography)
+
 ## Languages/Technologies Used
 
 - Python 3
 - SQL (MySQL/MariaDB)
-
----
-
-## How It Works
-
-Each tool can be used independently, but together they form a secure password workflow:
-
-1. **Generate** a strong password
-2. **Analyze** its strength to ensure it’s secure
-3. **Store** it safely using the password manager
 
 ---
 
