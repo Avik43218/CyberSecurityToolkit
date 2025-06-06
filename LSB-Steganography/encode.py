@@ -57,8 +57,8 @@ def read_file_data(path: str):
 
 if __name__ == "__main__":
 
-    file_path = "K:\\Programs\\PythonPrograms\\Cryptography_Algorithms\\Steganography\\achievements\\achievement_list.txt"
-    image_path = "K:\\Programs\\PythonPrograms\\Cryptography_Algorithms\\Steganography\\achievements\\picture.png"
+    file_path = "achievement_list.txt"
+    image_path = "picture.png"
     
     secret_msg = read_file_data(path=file_path)
     create_image(message=secret_msg.encode(), path=image_path, width=1024, height=1024)
